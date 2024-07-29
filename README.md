@@ -26,7 +26,7 @@ Se está desarrollando una aplicación gráfica en Java, utilizando el entorno d
 
 Además, se ha implementado un método auxiliar para limpiar y reiniciar la aplicación, eliminando todas las celdas creadas. La biblioteca JOptionPane se utiliza para mostrar mensajes y notificaciones al usuario.
 
-![ResultadoUI](src\code.png)
+![ResultadoUI](.\src\\code.png)
 
 ## Criterio del estudiante
 
